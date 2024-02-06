@@ -1,10 +1,10 @@
 # Global Super Store: 2012-2015 Sales Analysis Overview 🌐💼
 
-![d1](https://github.com/ROHITHKM92/Power-BI-PROJECT-1/assets/87298902/0116d23b-0211-4ad4-85ee-69c283179bcd)
+
 
 ## Introduction 🚀
 
-Embarking on a journey with an intriguing dataset, I found myself immersed in a treasure trove of information. This presented an excellent opportunity to polish my skills in data cleaning, analysis, and visualization.
+Upon discovering this online dataset, I was captivated by its richness, providing an excellent opportunity for honing my data cleaning, analysis, and visualization skills.
 
 **Applied Power BI Concepts:**
 - **DAX Concepts:** Calculated column, Custom Column, Year(), IF().
